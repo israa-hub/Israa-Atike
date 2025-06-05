@@ -1,6 +1,5 @@
-# Israa-Atike
 
-# Hi there 👋 I'm Israa Atike
+# Hi there 👋 I'm Israa Atike, Welcome to my Github!
 
 🎓 Final-year Mathematics & Data Science student at DkIT  
 🔬 SURP Researcher | Data Intern | GDSC Vice President  
