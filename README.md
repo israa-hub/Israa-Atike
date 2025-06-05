@@ -16,13 +16,6 @@
 
 ---
 
-### 📁 Featured Projects
-- 🧠 [Insurance Purchase Prediction](https://github.com/your-username/insurance-prediction)  
-- 📊 [Retail Dashboard with Power BI](https://github.com/your-username/retail-dashboard)  
-- 🧬 [Synthetic Data for Lung Cancer Detection (SURP Project)](https://github.com/your-username/synthetic-data-cancer)  
-
----
-
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
 - 📧 israa.yourname@email.com  
