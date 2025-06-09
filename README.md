@@ -24,7 +24,7 @@ I enjoy transforming messy data into clear insights and intuitive dashboards. My
 
 ## 📣 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/israa-atike)
+- 💼 [LinkedIn](https://www.linkedin.com/in/israa-atike-/)
 - 📧 israaatike@gmail.com
 - 🌐 Portfolio Website **
 
