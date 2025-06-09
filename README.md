@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Israa Atike, Welcome to my Github!
 
-🎓 Final-year BSc (Hons) student in Mathematics and Data Science at Dundalk Institute of Technology, with a 1.1 average.  
+🎓 Final-yeaR student of BSc (Hons) Mathematics and Data Science at Dundalk Institute of Technology, with 1.1 average.  
 💡 Passionate about using data science to solve real-world problems and create impact through AI and analytics.  
 🌍 Trilingual: Fluent in English, French, and Arabic.  
 📍 Based in Dundalk, Ireland.
@@ -19,7 +19,7 @@ I enjoy transforming messy data into clear insights and intuitive dashboards. My
 
 **Languages:** Python, R, SQL, JavaScript, HTML & MongoDB
 **Data Visualisations & Analytics:** Power BI, Tableau, NetSuite Analytics, Excel  
-**Other Tools:** Git, Figma, Overleaf, Canva
+**Other Tools:** Git, Figma, Overleaf, Canva, Latex, MS Power Point, MS Word, Trello, Jira.
 
 
 ## 📣 Let's Connect
