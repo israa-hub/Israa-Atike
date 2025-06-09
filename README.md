@@ -17,10 +17,9 @@ I enjoy transforming messy data into clear insights and intuitive dashboards. My
 
 ## 🛠️ Tech & Tools
 
-**Programming Languages:** Python, R, SQL, JavaScript, HTML & MongoDB.
-**Data Visualisations & Analytics:** Power BI, Tableau, NetSuite Analytics, Excel.
-**Other Tools:** Git, Figma, Overleaf, Canva, Latex, MS Power Point, MS Word, Trello, Jira.
-
+**Programming Languages:** Python, R, SQL, JavaScript, HTML & MongoDB. 
+**Data Visualisations & Analytics:** Power BI, Tableau, NetSuite Analytics, Excel  
+**Other Tools:** Git, Figma, Overleaf, Canva, Latex, MS Power Point, MS Word, Trello & Jira  
 
 ## 📣 Let's Connect
 
