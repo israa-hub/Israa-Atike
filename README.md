@@ -1,7 +1,7 @@
 
 # Hi there 👋 I'm Israa Atike, Welcome to my Github!
 
-🎓 Final-yeaR student of BSc (Hons) Mathematics and Data Science at Dundalk Institute of Technology, with 1.1 average.  
+🎓 Final-year student of BSc (Hons) Mathematics and Data Science at Dundalk Institute of Technology, with 1.1 average.  
 💡 Passionate about using data science to solve real-world problems and create impact through AI and analytics.  
 🌍 Trilingual: Fluent in English, French, and Arabic.  
 📍 Based in Dundalk, Ireland.
