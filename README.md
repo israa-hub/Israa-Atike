@@ -18,10 +18,13 @@ I enjoy transforming messy data into clear insights and intuitive dashboards. My
 <span style="display:inline-block;margin:4px;"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></span>
 <span style="display:inline-block;margin:4px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></span>
 <span style="display:inline-block;margin:4px;"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></span>
+<span style="display:inline-block;margin:4px;"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></span>
+
 
 ## 🗄️ Database Management  
 <span style="display:inline-block;margin:4px;"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/></span>
 <span style="display:inline-block;margin:4px;"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
+<span style="display:inline-block;margin:4px;"><img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/></span>
 
 ## 📊 Data Visualisations & Analytics  
 <span style="display:inline-block;margin:4px;"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></span>
